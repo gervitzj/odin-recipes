@@ -1,0 +1,11 @@
+.main {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.heading {
+    background-color: cornflowerblue;
+    font-weight: bold;
+    text-align: center;
+}
+.list {
+    color: black;
+}
