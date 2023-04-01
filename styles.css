@@ -2,10 +2,18 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 .heading {
-    background-color: cornflowerblue;
+    background-color:cornflowerblue;
     font-weight: bold;
     text-align: center;
 }
-.list {
-    color: black;
+.heading-2 {
+    font-weight: bold;
+    background-color:lightblue;
+}
+img {
+    height: auto;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
